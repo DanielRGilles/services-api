@@ -7,4 +7,3 @@ CREATE TABLE users (
   user_name TEXT NOT NULL,
   img_url TEXT NOT NULL
 );
-
